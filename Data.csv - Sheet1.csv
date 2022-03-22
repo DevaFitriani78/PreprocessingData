@@ -1,0 +1,11 @@
+Country,Age,Salary,Purchased
+Korea,37,77000,No
+Jepang,26,48000,Yes
+Australia,39,55000,No
+Jepang,25,68000,No
+Australia,40,,Yes
+Korea,32,87000,Yes
+Jepang,,75000,No
+Korea,27,79000,Yes
+Australia,50,83000,No
+Korea,25,67000,Yes
